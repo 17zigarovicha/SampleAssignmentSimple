@@ -1,3 +1,4 @@
+//Amy Zigarovich
 void setup()
 {
 	size(200,100);
